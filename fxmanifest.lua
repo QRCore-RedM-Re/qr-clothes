@@ -22,5 +22,5 @@ server_scripts {
 
 dependencies {
 	'qr-appearance',
-	'qr_menu'
+	'qr-menu'
 }
